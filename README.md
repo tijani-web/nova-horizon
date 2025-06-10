@@ -28,7 +28,7 @@ To run the project locally:
 
 ```bash
 # Clone the repository
-git clone https://github.com/your-username/nova-horizon.git
+git clone https://github.com/tijani-web/nova-horizon.git
 cd nova-horizon
 
 # Install dependencies
