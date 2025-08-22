@@ -1,5 +1,6 @@
 import React, { useState, useEffect } from "react";
 import destinationsData from "../data/data.json";
+// import { useGSAP } from "@gsap/react";
 import { useGSAP } from "@gsap/react";
 import gsap from "gsap";
 
